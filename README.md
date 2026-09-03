@@ -23,16 +23,17 @@ I have 9+ years of product experience across fintech, payments, and Web3, includ
 - Worked across wallet, DeFi, AMM, bridge, card, and payment products at Aura/Gamp
 - Earlier fintech experience across lending, KYC, payments, cards, and regulated financial workflows
 
+
 ## Featured portfolio repositories
 
-### [crypto-product-case-studies](../crypto-product-case-studies)
-Sanitized case studies covering payment links, cross-chain infrastructure, wallet/DeFi journeys, transaction-state design, and reliability.
+### [api-product-specs](https://github.com/anshitayadav24/api-product-specs)
+Sanitized product specifications for REST APIs, webhooks, transaction states, error models, sandbox parity, partner integrations, and developer-facing crypto infrastructure.
 
-### [api-product-specs](../api-product-specs)
-Sample product artifacts for REST APIs, webhooks, error taxonomy, sandbox parity, partner integrations, and developer-facing crypto infrastructure.
+### [crypto-product-case-studies](https://github.com/anshitayadav24/crypto-product-case-studies)
+Sanitized case studies covering payment links, cross-chain infrastructure, wallet/DeFi journeys, transaction-state design, settlement, and reliability.
 
-### [onchain-product-analytics](../onchain-product-analytics)
-Example SQL and KPI frameworks for transaction health, funnel performance, settlement reliability, and failure analysis.
+### [onchain-product-analytics](https://github.com/anshitayadav24/onchain-product-analytics)
+Sample SQL and KPI frameworks for transaction health, funnel performance, settlement reliability, reconciliation, and failure analysis.
 
 ## How I work
 
