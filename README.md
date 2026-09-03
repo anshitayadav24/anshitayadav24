@@ -1,8 +1,8 @@
 # Hi, I'm Anshita Yadav 👋
 
-**Product Leader | Crypto Infrastructure, Trading, Wallets & Financial Platforms**
+**Product Leader | Crypto Infrastructure, Trading, Wallets, APIs & Financial Platforms**
 
-I have 9+ years of product experience across fintech, payments, and Web3, including 5+ years working on crypto products spanning DEX/CEX routing, wallets, cross-chain infrastructure, B2B APIs, payments, transaction reliability, and regulated financial workflows.
+I have 10 years of product experience across fintech, payments, and Web3, including 5+ years building crypto products across trading and DEX infrastructure, wallets, cross-chain systems, B2B APIs, payments, transaction reliability, and regulated financial workflows.
 
 ## What I work on
 
