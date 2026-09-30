@@ -16,7 +16,7 @@ I have 10 years of product experience across fintech, payments, and Web3, includ
 
 ## Selected impact
 
-- Led product work at HoudiniSwap on a platform that has processed **$1.5B+ in total transactional volume** and **$13M+ in revenue**
+- Led product work at HoudiniSwap on a platform that has processed **$2.7B+ in total transactional volume** and **$13M+ in revenue**
 - Built Private Payment Links from 0→1 to **18,000+ opens**, **3,200+ completed payments**, and **$4.6M+ volume**
 - Led **8 launches across 12 chains** at Router Protocol
 - Built product analytics around **22 events and 10 failure categories** to diagnose transaction and funnel issues
