@@ -29,6 +29,10 @@ I have 10 years of product experience across fintech, payments, and Web3, includ
 ### [api-product-specs](https://github.com/anshitayadav24/api-product-specs)
 Sanitized product specifications for REST APIs, webhooks, transaction states, error models, sandbox parity, partner integrations, and developer-facing crypto infrastructure.
 
+### [web3-data-query-demo](https://github.com/anshitayadav24/web3-data-query-demo)
+
+Developer-facing data-layer prototype with structured wallet-linked records, filtering, TTL/expiry, stable machine-readable API errors, SQLite indexing, automated tests, and a lightweight browser console.
+
 ### [crypto-product-case-studies](https://github.com/anshitayadav24/crypto-product-case-studies)
 Sanitized case studies covering payment links, cross-chain infrastructure, wallet/DeFi journeys, transaction-state design, settlement, and reliability.
 
